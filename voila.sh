@@ -1,0 +1,1 @@
+voila --template=flex note_a.ipynb
